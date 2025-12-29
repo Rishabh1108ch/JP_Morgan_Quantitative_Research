@@ -1,3 +1,4 @@
+# JP Morgan Quantitative Research
 # 🧮 Natural Gas Price Forecasting Project
 
 ## 📘 Project Overview
